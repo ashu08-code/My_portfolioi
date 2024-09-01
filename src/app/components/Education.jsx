@@ -7,7 +7,7 @@ const Education = () => {
         <h2 className="text-center text-4xl font-bold text-white mt-4 mb-8 md:mb-12">
         Education
       </h2>
-      <p className="text-base lg:text-lg mb-2">
+      <p className="text-base lg:text-lg mb-2 font-bold">
       • Bachelor of Technology
         </p>
         {/* <p> Shivajirao Kadam Institute of Technology and Management • Indore
@@ -19,13 +19,13 @@ const Education = () => {
 
 
 
-          <p className="text-base lg:text-lg mb-2">
+          <p className="text-base lg:text-lg mb-2 font-bold">
       •  Higher Secondary Education
         </p>
         <p className="text-[#ADB7BE] text-base sm:text-md mb-1 lg:text-lg">
         La Sagesse Academy, Indore
           </p>
-          <p className="text-[#ADB7BE] text-base sm:text-md mb-8 lg:text-lg">
+          <p className="text-[#ADB7BE] text-base sm:text-md mb-12 lg:text-lg">
           I completed 12th standard with 77% in the year of 2020 </p>
 
 
