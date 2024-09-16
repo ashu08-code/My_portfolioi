@@ -8,7 +8,7 @@ const projectsData = [
   {
     id: 1,
     title: "SupplyArabia",
-    description: "Project 1 description",
+    description: "In SupplyArabia, its leading the charge in revolutionizing the online marketplace exclusively dedicated to the supply of raw materials to the Middle East and Arabic-speaking countries.",
     image: "/images/projects/supply2.png",
     tag: ["All", "Live Projects"],
     // gitUrl: "/",
@@ -17,7 +17,7 @@ const projectsData = [
   {
     id: 2,
     title: "DeaLin",
-    description: "Project 2 description",
+    description: "DealIn is a platform designed for users to buy and sell properties, vehicles, and a variety of products. It provides a marketplace where individuals and businesses can list their items for sale, and buyers can browse and filter through listings to find what they need.",
     image: "/images/projects/deal1.png",
     tag: ["All", "Live Projects"],
     // gitUrl: "/",
@@ -26,7 +26,8 @@ const projectsData = [
   {
     id: 3,
     title: "Video LMS",
-    description: "Project 2 description",
+    description:
+      "Video LMS is an educational platform designed to deliver video-based learning content.Video LMS aims to enhance digital learning experiences for both instructors and students. ",
     image: "/images/projects/lms1.png",
     tag: ["All", "Live Projects"],
     // gitUrl: "/",
@@ -35,7 +36,8 @@ const projectsData = [
   {
     id: 4,
     title: "DesertGate",
-    description: "This projects is to provide peoples the facilities to book their destination tours. Also it includes hotel booking and city tours .",
+    description:
+      "This projects is to provide peoples the facilities to book their destination tours. Also it includes hotel booking and city tours .",
     image: "/images/projects/desert2.png",
     tag: ["All", "Live Projects"],
     // gitUrl: "/",
@@ -44,7 +46,8 @@ const projectsData = [
   {
     id: 5,
     title: "Homeizon",
-    description: "This projects is a real estate project, here people get the facilities to buy or sell properties , pg hostels  and houses on rent. This also have a option to buy furnitures .",
+    description:
+      "This projects is a real estate project, here people get the facilities to buy or sell properties , pg hostels  and houses on rent. This also have a option to buy furnitures .",
     image: "/images/projects/homeizon1.png",
     tag: ["All", "Live Projects"],
     // gitUrl: "/",
@@ -53,7 +56,7 @@ const projectsData = [
   {
     id: 6,
     title: "Recipe Recommender",
-    description: "Project 4 description",
+    description: "This project i made during my internship,in this user post recipes and also filter other recipies according to ingredients.",
     image: "/images/projects/recipe1.png",
     tag: ["All", "Personal Projects"],
     gitUrl: "https://github.com/Ashutosh-kumar-code/Recipe_Recommend-MERN ",

@@ -24,10 +24,10 @@ const Contactus = () => {
         try my best to get back to you!
       </p>
       <div className="socials flex flex-row gap-2">
-        <Link href="https://github.com/Ashutosh-kumar-code">
+        <Link target="_blank" href="https://github.com/Ashutosh-kumar-code">
           <Image src={GithubIcon} alt="Github Icon" />
         </Link>
-        <Link href="https://www.linkedin.com/in/ashutosh-kumar-799881221/">
+        <Link target="_blank" href="https://www.linkedin.com/in/ashutosh-kumar-799881221/">
           <Image src={LinkedinIcon} alt="Linkedin Icon" />
         </Link>
       </div>

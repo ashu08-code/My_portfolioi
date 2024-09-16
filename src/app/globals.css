@@ -39,3 +39,15 @@ body {
 .skills_flexlist li{
   width: calc(50% - 10px);
 }
+
+.aboutpart_top{
+  height: 25px;
+}
+
+.menu_overlaypart{
+  z-index: 100;
+}
+
+.main_navtop{
+  z-index: 100;
+}
